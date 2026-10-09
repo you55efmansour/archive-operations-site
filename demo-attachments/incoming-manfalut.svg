@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1160" viewBox="0 0 900 1160" role="img" aria-labelledby="title description">
+  <title id="title">خطاب وارد — الوحدة المحلية لمركز ومدينة منفلوط</title>
+  <desc id="description">مستند تجريبي لعرض المرفقات في نظام إدارة عمليات الأرشيف. ليس مستندًا رسميًا.</desc>
+  <rect width="900" height="1160" fill="#ffffff"/>
+  <g font-family="Segoe UI, Tahoma, Arial, sans-serif" direction="rtl" text-anchor="start">
+    <text x="810" y="90" font-size="30" fill="#006bbb" font-weight="700">محافظة أسيوط</text>
+    <text x="810" y="136" font-size="24" fill="#18232d">الوحدة المحلية لمركز ومدينة منفلوط</text>
+    <text x="810" y="183" font-size="20" fill="#475a6e">إدارة المراسلات والمتابعة الإدارية</text>
+    <path d="M90 220H810" stroke="#d0d9e0" stroke-width="2"/>
+    <text x="810" y="275" font-size="20" fill="#475a6e">التاريخ: ١ أكتوبر ٢٠٢٦</text>
+    <text x="810" y="365" font-size="32" fill="#18232d" font-weight="700">خطاب وارد</text>
+    <text x="810" y="450" font-size="24" fill="#18232d">السيد مدير الإدارة،</text>
+    <text x="810" y="510" font-size="24" fill="#18232d">نرفق لسيادتكم بيانًا تجريبيًا بمتطلبات العمل بمركز منفلوط.</text>
+    <text x="810" y="570" font-size="24" fill="#18232d">يرجى مراجعة المستندات وتوجيه الطلب إلى القسم المختص،</text>
+    <text x="810" y="630" font-size="24" fill="#18232d">وموافاتنا بالإجراء المتخذ لاستكمال سجل المراسلات والمتابعة.</text>
+    <text x="810" y="690" font-size="24" fill="#18232d">وتفضلوا بقبول فائق الاحترام.</text>
+    <text x="810" y="885" font-size="22" fill="#475a6e">أعده: مصطفي ابو زيد</text>
+    <path d="M90 995H810" stroke="#d0d9e0" stroke-width="2"/>
+    <text x="810" y="1045" font-size="21" fill="#475a6e">بيانات تجريبية للعرض — ليس مستندًا رسميًا</text>
+    <text x="810" y="1085" font-size="19" fill="#475a6e">نظام إدارة عمليات الأرشيف · محافظة أسيوط</text>
+  </g>
+</svg>
